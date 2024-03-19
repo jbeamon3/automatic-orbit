@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+.placeholder {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+    max-width: 250px;
+    min-width: 250px;
+    
+}
+
+.button {
+    display: flex;
+    margin: auto;
+     max-width: 200px;
+    margin-top:10px;
+}
+img{
+width: 250px;
+     display: flex;
+    margin: auto;
+}
+li{
+ display: flex;
+    text-align: center;
+}
+
+input{
+    display: flex;
+ margin-top:10px;
+}
+.result{
+    display: flex;
+   align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
